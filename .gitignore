@@ -65,3 +65,4 @@ buck-out/
 # RNFirebaseStarter
 yarn.lock
 package-lock.json
+firebase_setup.js
